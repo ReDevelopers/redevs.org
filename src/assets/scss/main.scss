@@ -1,0 +1,14 @@
+@import "variables";
+@import "argon";
+
+header {
+  height: 72px;
+}
+
+.headroom--not-top {
+  background-color: $primary !important;
+
+  nav {
+    background-color: $primary !important;
+  }
+}

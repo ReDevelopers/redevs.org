@@ -1,0 +1,16 @@
+- name: Charlie K
+  avatar: Charlie.png
+  github: CDK2020
+  description: From the United States, Charlie has coded since he was 8 years old. Charlie co-founded ReDevs and ReFlar. He loves technology, space, and music.
+  role: Lead Developer / Co-Founder
+
+- name: Christian L
+  avatar: Christian.jpg
+  github: Ralkage
+  role: Full-Stack Developer / Co-Founder
+
+- name: David S
+  avatar: David.png
+  github: datitisev
+  description: Young Spanish coder. Owner of a few Discord bots, has made several websites for clients, and contributed to Flarum multiple times. Loves the internet, NodeJS, and videogames. 
+  role: Lead Developer
