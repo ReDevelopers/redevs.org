@@ -31,10 +31,6 @@
                         <li class="nav-item">
                             <a href="https://github.com/ReDevelopers/redevs.org" class="nav-link" target="_blank" rel="noopener">Source</a>
                         </li>
-                        <li class="nav-item">
-                            <a href="https://github.com/creativetimofficial/argon-design-system/blob/master/LICENSE.md"
-                               class="nav-link" target="_blank" rel="noopener">MIT License</a>
-                        </li>
                     </ul>
                 </div>
             </div>
