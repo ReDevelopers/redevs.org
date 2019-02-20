@@ -1,4 +1,4 @@
-import "../assets/vendor/nucleo/css/nucleo.css";
+import "../assets/vendor/nucleo/css/nucleo.scss";
 import "../assets/scss/main.scss";
 import globalComponents from "./globalComponents";
 import globalDirectives from "./globalDirectives";
