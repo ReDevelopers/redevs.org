@@ -1,5 +1,5 @@
-import "@/assets/vendor/nucleo/css/nucleo.css";
-import "@/assets/scss/main.scss";
+import "../assets/vendor/nucleo/css/nucleo.css";
+import "../assets/scss/main.scss";
 import globalComponents from "./globalComponents";
 import globalDirectives from "./globalDirectives";
 import VueLazyload from "vue-lazyload";
